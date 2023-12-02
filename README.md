@@ -1,4 +1,6 @@
 # My TypeScript Project
+Sheet: https://docs.google.com/spreadsheets/d/1WZazdk_lz4Xdkb8VzhRkFrPXO3nL052VHcLveTDts9s/edit#gid=0
+
 
 ## Installation
 
